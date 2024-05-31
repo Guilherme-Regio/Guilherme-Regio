@@ -5,6 +5,10 @@
 * Developer Database SQL
 * System Operation Linux
 
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)
+
 ## About
 
 <details>
@@ -19,8 +23,6 @@
 </details>
 
 ### Contact
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)
 
 ## Technologies
 
