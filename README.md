@@ -24,4 +24,4 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)])
+![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)]
