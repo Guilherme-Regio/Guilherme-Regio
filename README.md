@@ -1,4 +1,11 @@
-## Olá! EU SOU O Guilherme Regi :point_left::v:
+## Olá! Eu sou o Guilherme Regio :point_left::v:
+
+* BackEnd Developer Python 
+* BackEnd Developer PHP 
+* Developer Database SQL
+* System Operation Linux
+
+
 <!--
 **Guilherme-Regio/Guilherme-Regio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
