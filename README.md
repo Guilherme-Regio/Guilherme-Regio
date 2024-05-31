@@ -7,7 +7,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Regio&hide_progress=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Regio&hide_progress=true&theme=dark)
 
 
 ## About
