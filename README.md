@@ -26,8 +26,8 @@
 
 ## Technologies
 
-*Tecnologias que tenho conhecimento:
+* Tecnologias que tenho conhecimento:
 ![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)
 
-*Tecnologias que pretendo estudar:
-![My Skills](https://skillicons.dev/icons?i=js,perl,ruby&perline=6)
+* Tecnologias que pretendo estudar:
+![My Skills](https://skillicons.dev/icons?i=java,perl,ruby&perline=6)
