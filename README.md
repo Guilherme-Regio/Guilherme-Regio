@@ -5,6 +5,11 @@
 * Developer Database SQL
 * System Operation Linux
 
+##
+
+[![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)](https://skillicons.dev)
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)
 <!--
