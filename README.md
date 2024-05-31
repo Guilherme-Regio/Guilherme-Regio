@@ -13,6 +13,7 @@
 
 <details>
   <summary>Expandir Jornada Profissional</summary>
+  ###
   
   Iniciei minha jornada profissional na RD Saúde em setembro de 2019 como aprendiz na equipe de Service Desk do ambiente corporativo. Durante a pandemia de COVID-19, destaquei-me em um projeto de rollout urgente, convertendo sistemas de desktop para notebooks para facilitar o trabalho remoto, uma mudança crítica para a continuidade das operações da empresa. Em fevereiro de 2021, fui contratado como terceirizado, adicionando ao meu portfólio a gestão de admissão de novos funcionários e o desenvolvimento do portal "SSU Online". Esse projeto foi um marco na minha carreira, pois comecei a trabalhar com PHP e MySQL, e evolui para o uso do framework Laravel, mergulhando também no mundo do Linux e suas aplicações em servidores.
 
@@ -28,12 +29,13 @@
 
 * Tecnologias que tenho conhecimento:
 ###
-![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)
+ ![My Skills](https://skillicons.dev/icons?i=py,php,laravel,mysql,docker,django&perline=6)
 
 * Tecnologias que pretendo estudar:
 ###
-![My Skills](https://skillicons.dev/icons?i=java,perl,ruby&perline=6)
+ ![My Skills](https://skillicons.dev/icons?i=java,perl,ruby&perline=6)
 
 * Tecnologias que estou estudando:
-![My Skills](https://skillicons.dev/icons?i=git&perline=6)
+###
+ ![My Skills](https://skillicons.dev/icons?i=git&perline=6)
 
