@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Regio&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Regio&hide_progress=true&theme=github_dark)
 
-### About
+## About
 
 <details>
   <summary>Expandir Jornada Profissional</summary>
@@ -23,7 +23,7 @@
 
 </details>
 
-### Technologies
+## Technologies
 
 #### - Tecnologias que tenho conhecimento:
 ###
@@ -37,6 +37,6 @@
 ###
  ![My Skills](https://skillicons.dev/icons?i=git&perline=6)
 
-### Contact
+## Contact
 
 
